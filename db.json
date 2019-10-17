@@ -1,23 +1,24 @@
+{
+"Product":
 [
   
   {
     "Id":1,
     "Name": "Linen skirt",
-    "ShortDescription": "Best quality linen skirt",   
+     
     "Price": 1890,    
     "FullImage": "https://i.etsystatic.com/13074965/r/il/ad6f73/1300707053/il_fullxfull.1300707053_hgsg.jpg"
   },
   {
     "Id":2,
     "Name": "Floral jumpsuit",
-    "ShortDescription":"Cute jumpsuit with a cute printed design",
+   
     "Price": 2500,
     "FullImage": "https://www.forever21.com/images/1_front_750/00382492-01.jpg"
   },
   {
     "Id":3,
     "Name": "Red sneakers",
-    "ShortDescription": "High quality red sneakers",
    
     "Price": 750,
     
@@ -26,7 +27,6 @@
   {
     "Id":4,
     "Name": "Strappy black skirt",
-    "ShortDescription": "Strappy Black Suspender Skirt Tunic Party Pleated Skater Skirts",
     
     "Price": 100,
   
@@ -35,7 +35,7 @@
   {
     "Id":5,
     "Name": "Black long dress",
-    "ShortDescription": "Women Long Formal Prom Dress Cocktail Party Gown Evening Bridesmaid Dress Lady.",
+    
    
     "Price": 4800,
     
@@ -44,7 +44,7 @@
   {
     "Id":6,
     "Name": "Blue short dress",
-    "ShortDescription": "Womens Summer Casual Off-Shoulder Party Evening Cocktail Swing Short Dress",
+    
     
     "Price": 3500,
     
@@ -53,7 +53,7 @@
   {
     "Id":7,
     "Name": "Black floral dress",
-    "ShortDescription": "Women Summer Boho Chiffon Party Evening Beach Dresses Long Maxi Dress Sundress ",
+   
    
     "Price": 1800,
     
@@ -62,7 +62,7 @@
   {
     "Id":8,
     "Name": "Pantalon wide legs pant",
-    "ShortDescription": "Women Pantalon Wide Legs Long Pants Casual High Waist Trousers",
+    
    
     "Price": 2700,
    
@@ -71,7 +71,7 @@
   {
     "Id":9,
     "Name": "Stretch pencil black denim",
-    "ShortDescription": "High Waist Slim Skinny Jeans Stretch Pencil Denim Pants Trousers.",
+    
     
     "Price": 2500,
     
@@ -80,7 +80,7 @@
   {
     "Id":10,
     "Name": "Loose shorts",
-    "ShortDescription": " Summer Casual Loose Shorts ",
+   
    
     "Price": 1560,
     
@@ -89,7 +89,7 @@
   {
       "Id":11,
       "Name": "Polo T-shirt",
-      "ShortDescription": "Slim Fit POLO Shirts Summer Solid Short Sleeve Casual T-shirt Work Tee Top ",
+      
      
       "Price": 2900,
      
@@ -98,7 +98,7 @@
   {
       "Id":12,
       "Name": "Long sleeve shirt T-shirt",
-      "ShortDescription": "Slim Fitted Long Sleeve Shirt T-shirt Linen Tee Shirt Casual Top Blouse",
+      
       
       "Price": 3300,
      
@@ -107,7 +107,7 @@
   {
       "Id":13,
       "Name": "Denim jeans shirt",
-      "ShortDescription": " Men Denim Jeans Shirt Casual Long Sleeve Slim Fit Cotton Tops Shirts HCX ",
+      
       
       "Price": 2800,
      
@@ -116,7 +116,7 @@
   {
       "Id":14,
       "Name": "Long sleeve shirt",
-      "ShortDescription": " Slim Fit Long Sleeve Cotton Shirt Plaid Casual Button Business Dress Shirt ",
+      
      
       "Price": 21000,
      
@@ -125,7 +125,7 @@
   {
       "Id":15,
       "Name": "Short denim jean",
-      "ShortDescription": " Slim Short Denim Jean Pants Casual Jeans Trousers Thigh Ripped Holes Shorts ",
+      
       
       "Price": 2500,
      
@@ -134,7 +134,7 @@
   {
         "Id":16,
         "Name": "Slim fit denim pants",
-        "ShortDescription": " Stretchy Slim Fit Denim Pants Casual Long Straight Trousers Skinny Jeans",
+       
         
         "Price": 2500,
        
@@ -143,7 +143,7 @@
   {
         "Id":17,
         "Name": "Casual pencil denim",
-        "ShortDescription": "  Casual Pencil Denim Pants Slim Fit Straight-Leg Jeans Leisure Trousers Blue",
+       
         
         "Price": 2350,
         
@@ -152,7 +152,7 @@
   {
         "Id":18,
         "Name": "Business stretch trousers",
-        "ShortDescription": "Men Pants Casual Business Stretch trousers regular Straight Pant",
+       
         
         "Price": 1800,
         "Quantity": 50,
@@ -162,7 +162,7 @@
   {
         "Id":19,
         "Name": "Long Sleeve shirt",
-        "ShortDescription": "Luxury Fashion Men's Slim Fit Shirt Long Sleeve Dress Shirts Casual Shirt Tops",
+        
         
         "Price": 1750,
        
@@ -171,7 +171,7 @@
   {
         "Id":20,
         "Name": "Casual V-Neck shirt",
-        "ShortDescription": "Fashion Men's Casual V-Neck Long Sleeve Shirts Slim Fit T-Shirt Tops Blouse Tee",
+       
         
         "Price": 2500,
        
@@ -180,7 +180,7 @@
   {
     "Id": 21,
     "Name": "Girls sweat shirt",
-    "ShortDescription": "Girls sweat shirt with rainbow colored stripes",
+    
     
     "Price": 2500,
     "FullImage": "https://assets.jassets.com/h_600,q_95,w_440/v1/assets/images/productimage/2019/2/5/665b6ff4-2521-4ad1-8ac3-478aba3fefb31549362880522-1.jpg"
@@ -189,10 +189,10 @@
   {
     "Id": 22,
     "Name": "Boys sweat shirt",
-    "ShortDescription": "Blue and black color high quality sweatshirt for boys",
-   
+     
     "Price": 2500,
     
     "FullImage": "https://www.entre-copines.be/65801-thickbox_default/sweater-here-there-by-ca-secondhand-boys-clothing-for-kids.jpg"
   }
   ]
+}
